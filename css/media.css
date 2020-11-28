@@ -1,0 +1,1372 @@
+@media(width: 1700px) {
+    .carousel-control-prev {
+        left: 41%;
+    }
+}
+
+@media(width: 1260px) {
+    .carousel-control-prev {
+        left: 55%;
+    }
+
+    .carousel-control-next {
+        right: 25%;
+    }
+}
+
+@media(width: 1100px) {
+
+    .apps-features__img,
+    .designed__img,
+    .ultimate-features__img {
+        width: 100px;
+    }
+
+    .apps-features__img img,
+    .designed__img img .ultimate-features__img img {
+        width: 50%;
+    }
+
+    .app__content,
+    .design-block {
+        width: 460px;
+    }
+
+    .ultimate-features-content {
+        width: 520px;
+        left: 7%;
+    }
+
+    .jackpots-item {
+        width: 320px;
+    }
+
+    .designed-content {
+        position: relative;
+        left: 30%;
+    }
+}
+
+
+
+
+
+@media(width: 1200px) {
+    header{
+        height: 800px;
+    }
+    .header-image {
+        width: 300px;
+    }
+
+    .apps-features__img img {
+        width: 100%;
+    }
+
+    .download__desc {
+        width: 560px;
+    }
+
+    .carousel-control-next {
+        right: 20%;
+    }
+
+    .carousel-control-prev {
+        left: 59%;
+    }
+
+    .meet-clients img {
+        width: 100%;
+    }
+
+    .ultimate-features__img img {
+        width: 100%;
+    }
+
+    .ultimate-features-content {
+        /* position: relative; */
+        left: 13%;
+    }
+}
+
+@media(width: 992px) {
+    header {
+        height: 800px;
+    }
+
+    .designed-content__desc {
+        width: 315px;
+    }
+
+    /* .apps-features__img , .designed__img , .ultimate-features__img {
+        width: 460px;
+    }  */
+    .apps-features__img,
+    .designed__img,
+    .ultimate-features__img {
+        width: 460px;
+        position: static;
+    }
+
+    .apps-features__img img {
+        width: 100%;
+    }
+
+    .designed__img img {
+        width: 100%;
+    }
+
+    .ultimate-features__img img {
+        width: 4100;
+    }
+
+    .meet-clients img {
+        width: 100%;
+    }
+
+    .download__img img {
+        width: 100%;
+    }
+
+    .app__content,
+    .meet-clients,
+    .download__img {
+        width: 370px;
+    }
+
+    .clients-content {
+        position: relative;
+        right: 20%;
+    }
+
+    .design-block {
+        /* width: 316px; */
+        position: relative;
+        right: 15%;
+    }
+
+    .ultimate-features-content {
+        width: 520px;
+        left: 7%;
+    }
+
+    .about-business-class {
+        padding: 45px 40px;
+    }
+
+    .jackpots-item {
+        width: 320px;
+    }
+
+    .designed-content {
+        position: relative;
+        left: 30%;
+    }
+
+    .carousel-control-next {
+        right: 0%;
+    }
+
+    .carousel-control-prev {
+        left: 75%;
+    }
+
+    .download__content {
+        width: 460px;
+        left: 0%;
+    }
+}
+
+@media(width: 800px) {
+    header {
+        height: 800px;
+    }
+
+    .company-logo {
+        width: 300px;
+        margin-bottom: 30px;
+
+    }
+
+    .designed-content__desc {
+        width: 315px;
+    }
+
+    .apps-features__img,
+    .designed__img,
+    .ultimate-features__img {
+        width: 300px;
+    }
+
+    .apps-features__img img {
+        width: 150%;
+    }
+
+    .designed__img img {
+        width: 150%;
+    }
+
+    .ultimate-features__img img {
+        width: 150%;
+    }
+
+    .meet-clients img {
+        width: 150%;
+    }
+
+    .download__img img {
+        width: 120%;
+    }
+
+    .app__content,
+    .design-block,
+    .meet-clients,
+    .download__img {
+        width: 370px;
+    }
+
+    .ultimate-features-content {
+        width: 520px;
+        left: 7%;
+    }
+
+    .about-business-class {
+        padding: 45px 40px;
+    }
+
+    .jackpots-item {
+        width: 320px;
+    }
+
+    .designed-content {
+        position: relative;
+        left: 30%;
+    }
+
+    .carousel-control-next {
+        right: 36%;
+    }
+
+    .carousel-control-prev {
+        left: 49%;
+    }
+
+    .download__content {
+        width: 460px;
+        left: 0%;
+    }
+
+    .smart-jackpots__text {
+        width: 253px;
+    }
+
+    .smart-jackpots__title {
+        font-size: 26px;
+    }
+
+    .monthly-content,
+    .annualy-content {
+        width: 320px;
+    }
+
+    .about_ask-quest__desc {
+        width: 660px;
+    }
+
+    .download__desc {
+        width: 500px;
+    }
+
+    .download__title {
+        font-size: 30px;
+    }
+
+    .download__link img {
+        width: 140px;
+    }
+}
+
+
+@media(width: 768px) {
+    header {
+        height: 800px;
+    }
+
+    .header-content__title {
+        font-size: 30px;
+        width: 310px;
+    }
+
+    .header-content__desc {
+        font-size: 16px;
+        width: 310px;
+    }
+
+    header .logo {
+        font-size: 17px;
+    }
+
+    .header-nav__link a,
+    .editors {
+        font-size: 15px;
+    }
+
+    header nav button {
+        display: none;
+    }
+
+    button {
+        font-size: 14px;
+        padding: 12px 20px;
+        width: 175px;
+    }
+
+
+    .apps-features__img img {
+        width: 100%;
+    }
+
+    .smart-jackpots__text {
+        width: 260px;
+    }
+
+    .smart-jackpots__title {
+        font-size: 24px;
+    }
+
+    .ultimate-features__img {
+        display: none;
+    }
+
+    .designed-content__title {
+        font-size: 28px;
+        width: 250px;
+    }
+
+    .designed-content__desc {
+        width: 320px;
+    }
+
+    .apps-features__desc {
+        width: 350px;
+    }
+
+    .meet-clients img {
+        width: 100%;
+    }
+
+    .clients-content__title,
+    .user__title {
+        font-size: 20px;
+        width: 280px;
+    }
+
+    .clients-content__desc,
+    .user__desc {
+        font-size: 16px;
+        width: 320px;
+    }
+
+
+    .get-features__title {
+        font-size: 30px;
+    }
+
+    .get-features__desc {
+        width: 560px;
+    }
+
+    .get__price span {
+        font-size: 39px;
+    }
+
+    .get__title {
+        font-size: 17px;
+    }
+
+    .get__desc {
+        font-size: 15px;
+    }
+
+    .get__button button {
+        font-size: 14px;
+    }
+
+    .about-business-class {
+        padding: 40px 5px;
+    }
+
+    .about-user__name {
+        font-size: 17px;
+    }
+
+    .about-user__desc {
+        font-size: 16px;
+    }
+
+    .carousel-control-next {
+        right: 10%;
+        top: 30%;
+        width: 20px;
+        height: 20px;
+        font-size: 16px;
+        border: 1px #616368 solid;
+    }
+
+    .carousel-control-prev {
+        left: 75%;
+        top: 30%;
+        height: 20px;
+        width: 20px;
+        font-size: 16px;
+        border: 1px #616368 solid;
+    }
+
+    .carousel-control-prev::after {
+        width: 1px;
+        height: 15px;
+        left: 10px;
+    }
+
+    .ask-quest__title {
+        font-size: 30px;
+    }
+
+    .btn.btn-link {
+        width: 100%;
+    }
+
+    .about_ask-quest__desc {
+        width: 640px;
+    }
+
+    .download__title {
+        font-size: 33px;
+    }
+
+    .download__desc {
+        width: 515px;
+    }
+
+    .download__img {
+        display: none;
+    }
+
+    .download__content {
+        margin-bottom: 50px;
+    }
+
+}
+
+
+@media(width: 576px) {
+    header {
+        height: 800px;
+    }
+
+    .header-image,
+    .apps-features__img,
+    .designed__img,
+    .ultimate-features__img,
+    .meet-clients,
+    .download__img {
+        display: none;
+    }
+
+    .header-content__button-link {
+        margin-top: 20px;
+        margin-right: 0;
+    }
+
+    .header-content__title {
+        font-size: 30px;
+    }
+
+    header .button {
+        display: none;
+    }
+
+    .company-logo {
+        margin-top: 30px;
+    }
+
+    .smart__title {
+        flex-wrap: wrap;
+    }
+
+    .jackpots-content {
+        flex-wrap: wrap;
+    }
+
+    .smart__title::after {
+        content: '';
+        display: block;
+        height: 2px;
+        width: 450px;
+        background: #b9b9b8;
+        margin-top: 20px;
+    }
+
+    .smart-jackpots__text {
+        margin-top: 30px;
+    }
+
+    .our-app__title,
+    .get-features__title,
+    .clients-content__title,
+    .user__title,
+    .ask-quest__title,
+    .download__title,
+    .header-content__title {
+        font-size: 30px;
+        width: 400px;
+    }
+
+    .our-app__desc,
+    .get-features__desc,
+    .clients-content__desc,
+    .user__desc,
+    .ask-quest__text,
+    .about_ask-quest__desc,
+    .download__desc,
+    .header-content__desc {
+
+        width: 400px;
+    }
+
+    .ultimate-features-content {
+        position: relative;
+        left: 5%;
+    }
+
+    .slider-user__item {
+        width: 400px;
+        flex-direction: column;
+    }
+
+    .carousel-control-prev {
+        left: 9%;
+    }
+
+    .carousel-control-next {
+        right: 35%;
+    }
+
+    .carousel-control-prev::after {
+        display: none;
+    }
+
+    .download__content {
+        left: 0;
+    }
+}
+
+
+
+@media(width: 450px) {
+    header {
+        height: 800px;
+    }
+
+    .header-image,
+    .apps-features__img,
+    .designed__img,
+    .ultimate-features__img,
+    .meet-clients,
+    .download__img {
+        display: none;
+    }
+
+    .header-content__button-link {
+        margin-top: 20px;
+        margin-right: 0;
+    }
+
+    .header-content__title {
+        font-size: 30px;
+    }
+
+    header .button {
+        display: none;
+    }
+
+    .company-logo {
+        margin-top: 30px;
+        width: 200px;
+    }
+
+    .smart__title {
+        flex-wrap: wrap;
+    }
+
+    .jackpots-content {
+        flex-wrap: wrap;
+    }
+
+    .smart__title::after {
+        content: '';
+        display: block;
+        height: 2px;
+        width: 385px;
+        background: #b9b9b8;
+        margin-top: 20px;
+    }
+
+    .smart-jackpots__text {
+        margin-top: 30px;
+    }
+
+    .our-app__title,
+    .get-features__title,
+    .clients-content__title,
+    .user__title,
+    .ask-quest__title,
+    .download__title,
+    .header-content__title {
+        font-size: 30px;
+        width: 400px;
+    }
+
+    .our-app__desc,
+    .get-features__desc,
+    .clients-content__desc,
+    .user__desc,
+    .ask-quest__text,
+    .about_ask-quest__desc,
+    .download__desc,
+    .header-content__desc {
+
+        width: 400px;
+    }
+
+    .designed-content {
+        margin-left: 0px;
+    }
+
+    .ultimate-features-content {
+        position: relative;
+        left: 5%;
+    }
+
+    .ultimate-features__item {
+        width: 300px;
+    }
+
+    .card-items {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .slider-user__item {
+        width: 400px;
+        flex-direction: column;
+    }
+
+    .carousel-control-prev {
+        left: 9%;
+    }
+
+    .carousel-control-next {
+        right: 35%;
+    }
+
+    .carousel-control-prev::after {
+        display: none;
+    }
+
+    .download__content {
+        left: 0;
+    }
+}
+
+
+
+@media(width: 340px) {
+    header {
+        height: 700px;
+    }
+
+    .header-nav {
+        justify-content: center;
+    }
+
+    .editors {
+        font-size: 14px;
+        padding: 5px 10px;
+    }
+
+    .header-image,
+    .apps-features__img,
+    .designed__img,
+    .ultimate-features__img,
+    .meet-clients,
+    .download__img {
+        display: none;
+    }
+
+    .header-content__button-link {
+        margin-top: 20px;
+        margin-right: 0;
+        flex-wrap: wrap;
+        width: 160px;
+    }
+
+    .header-content__button-link a {
+        margin-left: 0;
+    }
+
+    .header-content__title {
+        font-size: 30px;
+    }
+
+    header .button {
+        display: none;
+    }
+
+    .company-logo {
+        margin-top: 30px;
+        width: auto;
+    }
+
+    .apps-features-about__item {
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .smart__title {
+        flex-wrap: wrap;
+    }
+
+    .jackpots-content {
+        flex-wrap: wrap;
+    }
+
+    .smart__title::after {
+        content: '';
+        display: block;
+        height: 2px;
+        width: 310px;
+        background: #b9b9b8;
+        margin-top: 20px;
+    }
+
+    .smart-jackpots__text {
+        margin-top: 30px;
+    }
+
+    .jackpots-item__desc,
+    .ultimate-features_item__desc {
+        margin: 0 auto;
+    }
+
+    .jackpots-item,
+    .ultimate-features__item {
+        justify-content: center;
+        text-align: center;
+        margin: 30px auto;
+    }
+
+
+    .get-features__title,
+    .user__title,
+    .download__title,
+    .header-content__title,
+    .apps-features__title,
+    .our-app__title,
+    .clients-content__title,
+    .ask-quest__title,
+    .ultimate-features__title,
+    .get-features__title,
+    .designed-content__title,
+    .header-content__title,
+    .smart-jackpots__title {
+        width: 310px;
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .our-app__desc,
+    .apps-features__desc,
+    .get-features__desc,
+    .clients-content__desc,
+    .user__desc,
+    .ask-quest__text,
+    .about_ask-quest__desc,
+    .download__desc,
+    .header-content__desc,
+    .smart-jackpots__text,
+    .designed-content__desc,
+    .ultimate-features__desc {
+        text-align: center;
+        width: 300px;
+    }
+
+    .about_ask-quest__title {
+        font-size: 16px;
+    }
+
+    .about_ask-quest__desc {
+        width: 280px;
+        font-size: 14px;
+    }
+
+    .designed-content {
+        margin-left: 0px;
+    }
+
+    .ultimate-features-content {
+        position: relative;
+        left: 5%;
+    }
+
+    .ultimate-features__item {
+        width: 300px;
+    }
+
+    .ultimate__button {
+        width: 140px;
+        margin: 0 auto;
+    }
+
+    .business-class {
+        margin-top: 30px;
+    }
+
+    .card-items {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .slider-user__item {
+        width: 290px;
+        flex-direction: column;
+    }
+
+    .design__button {
+        position: relative;
+        left: 50%;
+        transform: translate(-50%, 0);
+    }
+
+    .carousel-control-prev {
+        left: 9%;
+    }
+
+    .carousel-control-next {
+        right: 15%;
+    }
+
+    .carousel-control-prev::after {
+        display: none;
+    }
+
+    .download__content {
+        left: 0;
+    }
+
+    .download__link {
+        flex-wrap: wrap;
+    }
+
+    .download__link img {
+        margin-right: 40px;
+        width: 115px;
+    }
+
+    .footer-nav {
+        justify-content: center;
+        margin: 30px auto;
+        flex-wrap: wrap;
+    }
+}
+
+
+
+
+@media(width: 320px) {
+    header {
+        height: 600px;
+    }
+
+    .header-nav {
+        justify-content: center;
+    }
+
+    .editors {
+        font-size: 14px;
+        padding: 5px 10px;
+    }
+
+    .header-image,
+    .apps-features__img,
+    .designed__img,
+    .ultimate-features__img,
+    .meet-clients,
+    .download__img {
+        display: none;
+    }
+
+    .header-content__button-link {
+        margin-top: 20px;
+        margin-right: 0;
+        flex-wrap: wrap;
+        width: 160px;
+    }
+
+    .header-content__button-link a {
+        margin-left: 0;
+    }
+
+    .header-content__title {
+        font-size: 30px;
+    }
+
+    header .button {
+        display: none;
+    }
+
+    .company-logo {
+        margin-top: 30px;
+        width: auto;
+    }
+
+    .apps-features-about__item {
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .smart__title {
+        flex-wrap: wrap;
+    }
+
+    .jackpots-content {
+        flex-wrap: wrap;
+    }
+
+    .smart__title::after {
+        content: '';
+        display: block;
+        height: 2px;
+        width: 305px;
+        background: #b9b9b8;
+        margin-top: 20px;
+    }
+
+    .smart-jackpots__text {
+        margin-top: 30px;
+    }
+
+    .jackpots-item__desc,
+    .ultimate-features_item__desc {
+        margin: 0 auto;
+    }
+
+    .jackpots-item,
+    .ultimate-features__item {
+        justify-content: center;
+        text-align: center;
+        margin: 30px auto;
+    }
+
+
+    .get-features__title,
+    .user__title,
+    .download__title,
+    .header-content__title,
+    .apps-features__title,
+    .our-app__title,
+    .clients-content__title,
+    .ask-quest__title,
+    .ultimate-features__title,
+    .get-features__title,
+    .designed-content__title,
+    .header-content__title,
+    .smart-jackpots__title {
+        width: 305px;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .our-app__desc,
+    .apps-features__desc,
+    .get-features__desc,
+    .clients-content__desc,
+    .user__desc,
+    .ask-quest__text,
+    .about_ask-quest__desc,
+    .download__desc,
+    .header-content__desc,
+    .smart-jackpots__text,
+    .designed-content__desc,
+    .ultimate-features__desc {
+        text-align: center;
+        width: 290px;
+    }
+
+    .about_ask-quest__title {
+        font-size: 16px;
+    }
+
+    .about_ask-quest__desc {
+        width: 280px;
+        font-size: 14px;
+    }
+
+    .designed-content {
+        margin-left: 0px;
+    }
+
+    .ultimate-features-content {
+        position: relative;
+        left: 5%;
+    }
+
+    .ultimate-features__item {
+        width: 300px;
+    }
+
+    .ultimate__button {
+        width: 140px;
+        margin: 0 auto;
+    }
+
+    .business-class {
+        margin-top: 30px;
+    }
+
+    .card-items {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .slider-user__item {
+        width: 290px;
+        flex-direction: column;
+    }
+
+    .design__button {
+        position: relative;
+        left: 50%;
+        transform: translate(-50%, 0);
+    }
+
+    .carousel-control-prev {
+        left: 9%;
+    }
+
+    .carousel-control-next {
+        right: 9%;
+    }
+
+    .carousel-control-prev::after {
+        display: none;
+    }
+
+    .download__content {
+        left: 0;
+    }
+
+    .download__link {
+        flex-wrap: wrap;
+    }
+
+    .download__link img {
+        margin-right: 20px;
+        width: 115px;
+    }
+
+    .footer-nav {
+        justify-content: center;
+        margin: 30px auto;
+        flex-wrap: wrap;
+    }
+}
+
+
+
+@media(width: 230px) {
+
+    button {
+        font-size: 12px;
+        padding: 10px 15px;
+    }
+
+
+
+
+    header .logo {
+        font-family: 'poppins-bold';
+        font-size: 30px;
+        color: #242f51;
+        width: 120px;
+        margin: 0 auto;
+    }
+
+    .header-nav {
+        justify-content: center;
+        text-align: center;
+        width: 140px;
+        margin: 5px auto;
+    }
+
+    .editors {
+        display: none;
+    }
+
+    .header-content__button-link a {
+        font-size: 12px;
+    }
+
+    .header-image,
+    .apps-features__img,
+    .designed__img,
+    .ultimate-features__img,
+    .meet-clients,
+    .download__img {
+        display: none;
+    }
+
+    .our-app_item__title,
+    .jackpots-item__title,
+    .ultimate-features_item__title {
+        font-size: 15px;
+    }
+
+
+    .header-content__button-link {
+        margin-top: 20px;
+        margin-right: 0;
+        flex-wrap: wrap;
+        width: 160px;
+    }
+
+    .header-content__button-link a {
+        margin-left: 0;
+    }
+
+    .header-content__title {
+        font-size: 20px;
+    }
+
+    header .button {
+        display: none;
+    }
+
+    .company-logo {
+        margin-top: 30px;
+        width: auto;
+    }
+
+    .apps-features-about__item {
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .smart__title {
+        flex-wrap: wrap;
+    }
+
+    .jackpots-content {
+        flex-wrap: wrap;
+    }
+
+    .smart__title::after {
+        content: '';
+        display: block;
+        height: 2px;
+        width: 200px;
+        background: #b9b9b8;
+        margin-top: 20px;
+    }
+
+    .smart-jackpots__text {
+        margin-top: 30px;
+    }
+
+    .jackpots-item__desc,
+    .ultimate-features_item__desc,
+    .our-app_item__desc,
+    .apps-item__desc {
+        margin: 0 auto;
+        font-size: 12px;
+        width: 200px;
+    }
+
+    .jackpots-item,
+    .ultimate-features__item {
+        justify-content: center;
+        text-align: center;
+        margin: 30px auto;
+    }
+
+
+    .get-features__title,
+    .user__title,
+    .download__title,
+    .header-content__title,
+    .apps-features__title,
+    .our-app__title,
+    .clients-content__title,
+    .ask-quest__title,
+    .ultimate-features__title,
+    .get-features__title,
+    .designed-content__title,
+    .header-content__title,
+    .smart-jackpots__title,
+    .apps-item__title {
+        width: 210px;
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .our-app__desc,
+    .apps-features__desc,
+    .get-features__desc,
+    .clients-content__desc,
+    .user__desc,
+    .ask-quest__text,
+    .about_ask-quest__desc,
+    .download__desc,
+    .header-content__desc,
+    .smart-jackpots__text,
+    .designed-content__desc,
+    .ultimate-features__desc,
+    .get__desc {
+        text-align: center;
+        width: 190px;
+        font-size: 13px;
+    }
+
+    .about_ask-quest__title {
+        font-size: 12px;
+    }
+
+    .about_ask-quest__desc {
+        width: 170px;
+        font-size: 10px;
+    }
+
+    .designed-content {
+        margin-left: 0px;
+    }
+
+    .get__price span {
+        font-size: 20px;
+    }
+
+    .get__button {
+        margin: 20px auto;
+        width: 115px;
+        text-align: center;
+    }
+
+
+    .ultimate-features-content {
+        position: relative;
+        left: 5%;
+    }
+
+    .ultimate-features__item {
+        width: 300px;
+    }
+
+    .ultimate__button {
+        width: 70px;
+        margin: 0 auto;
+    }
+
+    .business-class {
+        margin-top: 30px;
+    }
+
+    .about-business-class {
+        padding: 30px 0;
+    }
+
+    .card-items {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .slider-user__item {
+        width: 190px;
+        flex-direction: column;
+    }
+
+    .design__button {
+        position: relative;
+        left: 50%;
+        transform: translate(-50%, 0);
+    }
+
+    .carousel-control-prev {
+        height: 35px;
+        width: 35px;
+        font-size: 13px;
+        top: 40%;
+        left: 0;
+    }
+
+    .carousel-control-next {
+        height: 35px;
+        width: 35px;
+        font-size: 13px;
+        top: 40%;
+        right: 0;
+    }
+
+    .carousel-control-prev::after {
+        display: none;
+    }
+
+    .download__content {
+        left: 0;
+    }
+
+    .download__link {
+        flex-wrap: wrap;
+    }
+
+    .download__link img {
+        margin-right: 10px;
+        width: 90px;
+    }
+
+    .footer-nav {
+        justify-content: center;
+        margin: 30px auto;
+        flex-wrap: wrap;
+    }
+
+    .footer-nav__link {
+        width: 140px;
+        text-align: center;
+    }
+
+    .nav__icons {
+        width: 150px;
+        margin: 0;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+
+
+    .nav.nav-tabs {
+        width: 135px;
+        border: none;
+    }
+
+    .nav-tabs .nav-link {
+        font-size: 14px;
+        padding: 5px 35px;
+    }
+
+    .nav-tabs .nav-link.active,
+    .nav-tabs .nav-item.show .nav-link {
+        padding: 5px 20px;
+    }
+}

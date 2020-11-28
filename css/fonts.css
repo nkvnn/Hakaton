@@ -1,0 +1,32 @@
+@font-face{
+    font-family: 'poppins-bold';
+    src: url("../fonts/poppins/Poppins-Bold.ttf");
+}
+@font-face{
+    font-family: 'poppins-medium';
+    src: url("../fonts/poppins/Poppins-Medium.ttf");
+}
+@font-face{
+    font-family: 'poppins-regular';
+    src: url("../fonts/poppins/Poppins-Regular.ttf");
+}
+@font-face{
+    font-family: 'poppins-semiBold';
+    src: url("../fonts/poppins/Poppins-SemiBold.ttf");
+}
+@font-face{
+    font-family: 'fontawesome5_Brands-regular';
+    src: url("../fonts/fontawesome/Font Awesome 5 Brands-Regular-400.otf");
+}
+@font-face{
+    font-family: 'fontawesome5_Brands-regular';
+    src: url("../fonts/fontawesome/Font Awesome 5 Brands-Regular-400.otf");
+}
+@font-face{
+    font-family: 'fontawesome5_regular';
+    src: url("../fonts/fontawesome/Font Awesome 5 Brands-Regular-400.otf");
+}
+@font-face{
+    font-family: 'fontawesome5_solid';
+    src: url("../fonts/fontawesome/Font Awesome 5 Brands-Regular-400.otf");
+}
